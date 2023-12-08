@@ -23,20 +23,20 @@ The dataset used in this project is named "Churn_Modelling.csv." It contains inf
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Ithurtzwhenip/ANN-on-Churn-Modelling
    cd your-repo
    ```
 
 2. Run the Jupyter Notebook or Python script to see the model in action:
 
    ```bash
-   jupyter notebook churn_prediction.ipynb
+   jupyter notebook ann.ipynb
    ```
 
    or
 
    ```bash
-   python churn_prediction.py
+   python ann.py
    ```
 
 ## Code Overview
@@ -104,4 +104,4 @@ print("Best Parameters:", best_parameters)
 print("Best Accuracy:", best_accuracy)
 ```
 
-Feel free to explore and modify the code based on your requirements. Good luck with your ANN model for customer churn prediction!
+Feel free to explore and modify the code based on your requirements.
