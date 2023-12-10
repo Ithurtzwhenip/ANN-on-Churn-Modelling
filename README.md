@@ -24,7 +24,7 @@ The dataset used in this project is named "Churn_Modelling.csv." It contains inf
 
    ```bash
    git clone https://github.com/Ithurtzwhenip/ANN-on-Churn-Modelling
-   cd your-repo
+   cd ANN-on-Churn-Modelling
    ```
 
 2. Run the Jupyter Notebook or Python script to see the model in action:
